@@ -1,0 +1,7 @@
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.csprojAssemblyReference.cache
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfoInputs.cache
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.AssemblyInfo.cs
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.csproj.CoreCompileInputs.cache
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.RazorAssemblyInfo.cache
+C:\Users\JIN\Desktop\MVC\obj\Debug\netcoreapp3.1\MVC.RazorAssemblyInfo.cs
